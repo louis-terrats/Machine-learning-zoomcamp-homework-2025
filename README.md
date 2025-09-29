@@ -2,4 +2,4 @@
 
 Hello homework !
 
-Commit is difficult.
+Source of the course : https://github.com/DataTalksClub/machine-learning-zoomcamp/
